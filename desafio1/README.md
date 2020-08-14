@@ -17,6 +17,7 @@ Faça o push da imagem no Docker Hub e informe a url da imagem na área de entre
 -Referências:
 -Iniciando com Docker
 -Go Lang: A linguagem simples e rápida que todo desenvolvedor Full Cycle deveria saber
+
 https://www.youtube.com/watch?v=jzUCK3ElaN4
 
 
